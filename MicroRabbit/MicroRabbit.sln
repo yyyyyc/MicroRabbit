@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E648B01B-6072-4908-8D71-B1E8FF6A61BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{15B3447D-E723-4145-8170-B14FF9ED45D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{44616C9C-5EC7-488A-B4F0-CD28EA5233CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IOC", "Infra.IOC", "{7E7A2B89-E9DB-4D34-B7AB-13AA14F48F9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{AA98D47E-60A8-4C1F-972C-88D6B7C0A2DC}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39F959C3-51D0-4720-B430-578CF329458C}
+	EndGlobalSection
+EndGlobal
